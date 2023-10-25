@@ -7,7 +7,7 @@ Timeline.js is a PlayCanvas script that allows you to create smooth animations u
 ## Links
 - Demo: https://playcanvas.com/project/1155534/overview/timeline-demo
 - Tween Library: https://github.com/playcanvas/playcanvas-tween/blob/main/tween.js
-- Youtube video: 
+- Youtube video: https://www.youtube.com/watch?v=uMGgIA_3b5I&ab_channel=CemDemir
 
 ## Attributes
 
